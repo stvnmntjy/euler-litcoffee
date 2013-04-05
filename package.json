@@ -1,5 +1,5 @@
 {
-    "name": "euler-coffee",
+    "name": "euler-litcoffee",
     "author": "steven mountjoy",
     "description": "project euler problems in literate coffeescript",
     "version": "1.0.0",
