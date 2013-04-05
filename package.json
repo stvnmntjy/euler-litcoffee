@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/stvnmntjy/euler-litcoffee.git"
     },
     "keywords": [
         "literate",
